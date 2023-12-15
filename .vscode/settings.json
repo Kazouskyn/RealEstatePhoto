@@ -1,0 +1,12 @@
+{
+    "eslint.enable": true,
+    "eslint.validate": [
+      "javascript",
+      "astro", // Enable .astro
+      "typescript", // Enable .ts
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
