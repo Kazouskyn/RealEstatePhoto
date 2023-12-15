@@ -13,5 +13,14 @@
     "@astrojs/check": "^0.3.2",
     "astro": "^4.0.4",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^6.14.0",
+    "astro-eslint-parser": "^0.16.0",
+    "eslint": "^8.55.0",
+    "eslint-plugin-astro": "^0.30.0",
+    "eslint-plugin-jsx-a11y": "^6.8.0",
+    "prettier": "^3.1.1",
+    "prettier-plugin-astro": "^0.12.2"
   }
 }
